@@ -1,0 +1,5 @@
+{
+    "editor.fontSize": 20, //设置编辑器字体大小
+    "window.zoomLevel": 0.6, //设置整个窗口大小
+    "files.autoSave": "onFocusChange"
+}
