@@ -1,0 +1,5 @@
+I love python!
+I love programming!
+I love creating new game!
+I also love finding meaning in large datesets!
+I love creating apps that can run in a broswer!

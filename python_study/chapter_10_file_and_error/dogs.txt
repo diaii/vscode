@@ -1,0 +1,3 @@
+dog1 = wangwang
+dog2 = wangcai
+dog3 = huahua
